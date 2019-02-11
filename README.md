@@ -8,13 +8,13 @@ Answer.
 
 SELECT Statement 
 2. DML – Data Manipulation Language
-    DML is used for manipulation of the data itself.
+   DML is used for manipulation of the data itself
 
 INSERT Statement
 UPDATE Statement
 DELETE Statement
 3. DDL – Data Definition Language
-    DDL is used to define the structure that holds the data. 
+   DDL is used to define the structure that holds the data
 
 CREATE Statement
 ALTER Statement
@@ -22,7 +22,7 @@ DROP Statement
 RENAME Statement
 TRUNCATE Statement
 4. DCL – Data Control Language 
-    DCL is used to control the visibility of data.
+   DCL is used to control the visibility of data
 
 GRANT Statement
 REVOKE Statement
