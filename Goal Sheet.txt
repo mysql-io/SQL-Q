@@ -1,0 +1,31 @@
+On the Time delivery Task List.
+1. Started First Project as DirectBiller and completed Setup and KT Within a week.
+
+2. Added lots of UI features with DirectBiller New ANGULAR UI project as per ticket raised by QA Team of the client.
+
+3. Added permissions and filters with the backend Admin Panel of DirectBiller according to business logic discussed with the project manager. 
+
+4. Developed utility to DirectBiller for adding invoice and account id dynamic in SharePayments feature. 
+
+5. Upgraded old DirectBiller UI project for latest IE and others browser support. 
+
+6. Cleaned UnWanted files and Code from DirectBiller Projects, Who was pending from last 6 years. 
+
+7. Upgraded JUnit to TestNG Framework with DirectBiller.
+
+8. Moved into Colt MI Project and Done KT within a week. 
+
+9. Design and Developed MI Project Angular app with version 6 as per old project wireframe. 
+
+10. Consuming all the restful API of the MI Project into the Angular app.
+
+
+
+
+Quality of Work:
+
+I have done all the tickets raised by the client and done all work with quality. All the ticket approved by the QA team of the client.     
+ 
+ 
+Process Adherence:
+
